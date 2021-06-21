@@ -9,5 +9,8 @@
 #npm install
 #node app.js
 
+#Database
+#mongoDb on machine
+
 #Commands to Test the APIs
 #npm test
